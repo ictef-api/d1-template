@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "d1-template",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "1f436321-62c8-46b4-b0cd-24d7b53400db",
+			"database_name": "ictef-db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
